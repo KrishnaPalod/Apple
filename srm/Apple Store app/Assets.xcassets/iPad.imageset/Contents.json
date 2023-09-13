@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "ipad-10th-gen-finish-select-202212-yellow-wifi_AV1_GEO_EMEA_FMT_WHH.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
